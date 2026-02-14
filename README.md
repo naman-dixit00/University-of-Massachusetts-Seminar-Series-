@@ -5,9 +5,9 @@
 **Category:** Systems
 
 ---
-📅 **Date:** Friday, February 13
-🕐 **Time:** 1:00 PM
-📍 **Location:** CSL E144 (In-person)
+📅 **Date:** Friday, February 13  
+🕐 **Time:** 1:00 PM  
+📍 **Location:** CSL E144  
 ---
 
 ## 📄 Abstract
@@ -30,3 +30,29 @@ We are entering an era of reasoning abundance enabled by AI, opening new opportu
 ## 🎯 Relevance of this Talk
 
 This session focuses on how AI can be used to autonomously design and optimize complex systems. It directly addresses the seminar’s theme by showcasing how AI is automating core tasks of experimental design, bringing an era of reasoning abundance to the systems research lifecycle.
+
+---
+Zaroor, buddy! Ek professional aur clear **Disclaimer/Citation** section likhna bahut zaroori hota hai jab aap kisi university ka content use kar rahe ho.
+
+Aap apni GitHub README mein niche diya gaya text copy-paste kar sakte ho. Maine ise kaafi respectful aur "fair use" friendly rakha hai taaki koi issue na ho.
+
+---
+
+## 📢 Disclaimer & Citations
+
+### **Usage Policy**
+
+The images and documents (including registration emails and seminar materials) uploaded in this repository are for **reference and educational purposes only**.
+
+* I do not claim any ownership of this content.
+* I have no intention of republishing, selling, or misusing these materials in any way.
+* These are stored here solely to document my participation and learning journey during the seminar series.
+
+### **Credits & Attribution**
+
+All intellectual property rights and content ownership belong to the original creators:
+
+* **Organization:** University of Massachusetts (UMass)
+* **Event:** UMass Seminar Series
+* **Source:** Official Seminar Communications & Materials
+
